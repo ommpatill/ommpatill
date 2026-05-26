@@ -27,7 +27,7 @@
 <br/>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Software%20Developer&fontAlign=50&fontAlignY=38&desc=Java%20Backend%20%7C%20Spring%20Boot%20%7C%20REST%20APIs%20%7C%20Scalable%20Systems&descAlign=50&descAlignY=64&color=0:0f172a,45:7c3aed,100:111827&fontColor=ffffff&descSize=16&fontSize=34&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=125&text=Software%20Developer&fontAlign=50&fontAlignY=32&desc=Java%20Backend%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlign=50&descAlignY=58&color=0:0f172a,45:7c3aed,100:111827&fontColor=ffffff&descSize=13&fontSize=28&animation=fadeIn"
   alt="Software Developer banner"
 />
 
