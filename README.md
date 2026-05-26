@@ -1,138 +1,155 @@
-<h1 align="center">Om Patil</h1>
+<div align="center">
+
+# OM PATIL
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=1100&lines=Software+Developer;Java+Developer;Spring+Boot+Engineer;REST+API+Developer;Scalable+Systems+Builder;Freelance+%26+Collaboration+Ready" alt="Typing SVG" />
+
+<br/>
 
 <p align="center">
-  <b>Java Backend Developer | Spring Boot | REST APIs | SQL | Backend Engineering | Building scalable applications</b>
+  <a href="https://ompatilportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/ommpatill">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ompatill/">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ommpatill/">
+    <img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:omlpatil0609@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  I build software that is practical, readable, and useful — with a backend-first mindset and full-stack capability where it matters.
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://ompatilportfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/ommpatill" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ompatill/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/ommpatill/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:omlpatil0609@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Software%20Developer&fontAlign=50&fontAlignY=36&desc=Java%20Backend%20Development%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20REST%20APIs%20%E2%80%A2%20Scalable%20Systems&descAlign=50&descAlignY=60&color=0:0f172a,45:7c3aed,100:111827&fontColor=ffffff&descSize=20&fontSize=46&animation=fadeIn" 
+/>
+
+</div>
 
 ---
 
-## Snapshot
+## System Snapshot
 
-| Field | Details |
-|---|---|
-| Location | Pune, India |
-| Current Study | B.Tech in Information Technology, VIIT Pune |
-| Graduation | June 2026 |
-| Core Focus | Java, Spring Boot, REST APIs, SQL, scalable backend systems |
-| Secondary Strength | React.js, Node.js, Express.js |
-| Open To | Software Engineer, Java Developer, Backend Developer, Full Stack Developer |
+<details open>
+<summary><strong>What I do</strong></summary>
+
+I build practical software with a backend-first mindset, clean API design, and full-stack delivery when the project needs both sides.
+
+- Java backend development
+- Spring Boot applications
+- REST API design
+- SQL and database workflows
+- Scalable backend systems
+- Full-stack application delivery
+- AI-assisted engineering where it adds value
+- Freelance-ready project work
+
+</details>
+
+<details>
+<summary><strong>What I care about</strong></summary>
+
+- maintainable architecture
+- readable code
+- performance-minded development
+- practical system design
+- solving real problems
+- shipping useful software
+
+</details>
+
+<details>
+<summary><strong>What I’m focused on right now</strong></summary>
+
+```txt
+✓ Java Development
+✓ Spring Boot Applications
+✓ REST API Design
+✓ Backend Engineering
+✓ SQL Query Optimization
+✓ Event-driven Workflows
+✓ Full-stack Product Delivery
+✓ AI-assisted Development
+✓ Freelance-ready Project Work
+```
+
+</details>
 
 ---
 
-## What I Build
+## Engineering Identity
 
-- Backend systems with Java and Spring Boot
-- REST APIs with clean request/response flow
-- Database-driven applications with SQL and NoSQL
-- Full-stack products with React.js and Node.js when needed
-- Projects that solve something real, not just look good in a demo
-- AI-assisted workflows where they add actual value
+```java
+public class OmPatil {
+
+    String role = "Software Developer";
+
+    String primaryFocus = "Java Backend Development";
+
+    String[] coreStrengths = {
+        "Spring Boot",
+        "REST APIs",
+        "Backend Engineering",
+        "SQL Optimization",
+        "Scalable Systems",
+        "Production-minded Development"
+    };
+
+    String[] openDirections = {
+        "Freelance Work",
+        "Collaboration",
+        "Open Source",
+        "Internship Roles",
+        "Entry-level Software Roles"
+    };
+}
+```
 
 ---
 
 ## Core Stack
 
-### Backend
+### Backend Ecosystem
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,hibernate,mysql,mongodb,postgres,docker,kafka,redis,aws,git,github,postman" />
 </p>
 
-### Frontend
+### Frontend & Full Stack
 <p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" />
 </p>
 
-### Databases
+### AI & Modern Workflows
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/H2-1B1F23?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Tools & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-### Engineering Mindset
-<p>
-  <img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_Design-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design_Basics-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Query_Optimization-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Authentication-111827?style=for-the-badge&logoColor=white" />
-</p>
-
-### AI Workflow
-<p>
-  <img src="https://img.shields.io/badge/Spring_AI-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_APIs-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_Databases-111827?style=for-the-badge&logoColor=white" />
+<p align="center">
+  Spring AI • LangChain4j • RAG Systems • LLM APIs • Prompt Engineering • Vector Databases
 </p>
 
 ---
 
-## Featured Projects
+## Featured Work
 
 <details open>
-<summary><strong>ForenSight: Digital Evidence Intelligence Platform</strong></summary>
+<summary><strong>ForenSight — Digital Evidence Intelligence Platform</strong></summary>
 
 A secure digital forensics and evidence intelligence platform built with Java, Spring Boot, Spring AI, and React.js.
 
-**Highlights**
+**Why it stands out**
 - Case-based evidence management for forensic investigation workflows
 - SHA-256 integrity verification and chain-of-custody tracking
-- AI-assisted reporting for forensic analysis and evidence summarization
+- AI-assisted forensic reporting and evidence summarization
 - Responsive investigation interfaces built with React.js
 
-**Stack**
+**Stack**  
 `Java` `Spring Boot` `Spring AI` `React.js` `REST APIs` `SHA-256`
 
 </details>
@@ -142,13 +159,13 @@ A secure digital forensics and evidence intelligence platform built with Java, S
 
 A backend engineering simulation focused on transaction processing, Kafka-based messaging, Spring Boot REST APIs, and H2 database integration.
 
-**Highlights**
-- Kafka-based message handling for reliable backend workflow execution
+**Why it stands out**
+- Kafka-based message handling for reliable backend workflows
 - Spring Boot REST APIs for transaction processing
-- H2 database persistence for record management and validation
-- Enterprise-style backend workflow practice
+- H2 persistence and validation for record management
+- Enterprise-style backend engineering practice
 
-**Stack**
+**Stack**  
 `Java` `Spring Boot` `Kafka` `H2 Database` `REST APIs`
 
 </details>
@@ -158,13 +175,13 @@ A backend engineering simulation focused on transaction processing, Kafka-based 
 
 A scalable Java Spring Boot application for sales territory optimization and data-driven planning workflows.
 
-**Highlights**
+**Why it stands out**
 - Backend services for territory planning and operational workflows
 - RESTful APIs for frontend, backend, and database communication
 - SQL query optimization for improved performance
 - Business analytics dashboards for sales insights and visualization
 
-**Stack**
+**Stack**  
 `Java` `Spring Boot` `ReactJS` `SQL` `REST APIs`
 
 </details>
@@ -174,13 +191,13 @@ A scalable Java Spring Boot application for sales territory optimization and dat
 
 A machine learning powered healthcare application that predicts vitamin deficiencies using symptom-based analysis and a responsive full-stack interface.
 
-**Highlights**
+**Why it stands out**
 - ML workflows built with Python, Pandas, and Scikit-Learn
 - Flask backend connected to a React.js frontend
 - Improved loading and interaction flow
 - Presented at WCSET, Pune
 
-**Stack**
+**Stack**  
 `Python` `Flask` `Scikit-Learn` `React.js` `Machine Learning`
 
 </details>
@@ -190,13 +207,13 @@ A machine learning powered healthcare application that predicts vitamin deficien
 
 A real-time GPS tracking platform built with Node.js, Express.js, MongoDB, and React.js.
 
-**Highlights**
+**Why it stands out**
 - Multi-device tracking and route visualization
 - Scalable backend APIs for real-time data handling
 - Secure authentication and protected user data
 - Geofencing for live tracking workflows
 
-**Stack**
+**Stack**  
 `React.js` `Node.js` `Express.js` `MongoDB` `Authentication`
 
 </details>
@@ -214,113 +231,174 @@ These projects helped me sharpen real-time communication, CRUD workflows, state 
 
 ---
 
+## What I Like Building
+
+- backend APIs that are clean and easy to maintain
+- scalable application logic with Java and Spring Boot
+- database-driven systems with good structure
+- full-stack product features that feel polished
+- automation and workflow improvements
+- freelance-style projects with real usefulness
+- software that solves a problem, not just fills a demo slot
+
+---
+
+## Technical Strengths
+
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Backend
+
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- Microservices
+- Kafka
+
+</td>
+
+<td valign="top" width="33%">
+
+### Databases
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQLite
+- SQL Optimization
+- Database Design
+
+</td>
+
+<td valign="top" width="33%">
+
+### Tools & Platforms
+
+- Git
+- GitHub
+- Docker
+- Postman
+- AWS
+- IntelliJ IDEA
+- VS Code
+- Vercel
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Selected Repositories
+
+- [`Portfolio`](https://github.com/ommpatill/Portfolio) — my main developer portfolio and personal brand
+- [`territoty-planner-service`](https://github.com/ommpatill/territoty-planner-service) — Java/Spring Boot backend with SQL optimization
+- [`chatbox-live`](https://github.com/ommpatill/chatbox-live) — real-time chat application with Socket.io
+- [`expense-tracker`](https://github.com/ommpatill/expense-tracker) — finance tracker with Firebase and React
+- [`WeatherlyWeb`](https://github.com/ommpatill/WeatherlyWeb) — weather app with API integration
+- [`Nutri-Scan`](https://github.com/ommpatill/Nutri-Scan) — machine learning health prediction system
+
+---
+
 ## Experience
 
-<details open>
-<summary><strong>Unified Mentor Pvt. Ltd. — Fullstack Web Development Intern</strong></summary>
-
-**August 2025 - November 2025**
+### Unified Mentor Pvt. Ltd.
+**Fullstack Web Development Intern**  
+August 2025 - November 2025
 
 - Worked on full stack web development tasks using React.js and Redux
 - Built and refined responsive UI features and dynamic interfaces
 - Used Git and GitHub for version control, collaboration, and deployment workflows
 - Strengthened HTML5, CSS3, JavaScript, and practical full stack development skills
 
-</details>
-
-<details>
-<summary><strong>Internshala — Software Developer Intern</strong></summary>
-
-**July 2022 - August 2022**
+### Internshala
+**Software Developer Intern**  
+July 2022 - August 2022
 
 - Developed Python automation solutions to reduce manual effort and improve process efficiency
 - Optimized SQLite database performance through query improvements and indexing
 - Collaborated with teams to translate business requirements into technical solutions
-
-</details>
 
 ---
 
 ## Education
 
 ### B.Tech in Information Technology
-**BRACT’s Vishwakarma Institute of Information Technology, Pune**  
-Aug 2023 – Jun 2026 (Expected)  
-CGPA: 8.19
+BRACT's Vishwakarma Institute of Information Technology, Pune  
+2023 — 2026
 
 ### Diploma in Information Technology
-**DBATU’s Institute of Petrochemical Engineering, Lonere**  
-Jul 2020 – Jun 2023  
-CGPA: 9.13
+DBATU's Institute of Petrochemical Engineering  
+2020 — 2023
 
 ---
 
 ## Certifications & Recognition
 
-- Data Structures and Algorithms using Java — Infosys Springboard
-- Computational Theory: Language Principle & Finite Automata — Infosys Springboard
-- Computational Theory: Turing, Transducers, & Complexity — Infosys Springboard
-- Enhancing the Customer Experience with HCI — Infosys Springboard
-- AI: Human-Computer Interaction Methodologies — Infosys Springboard
-- AI: Human-Computer Interaction Overview — Infosys Springboard
-- Problem Solving for Success — Infosys Springboard
-- Introduction to R — Infosys Springboard
+- Data Structures and Algorithms using Java
+- Computational Theory & Automata
+- Human Computer Interaction
+- Problem Solving for Success
+- AI & HCI Methodologies
 
 ### Conference Presentation
-Presented **“Vitamin Deficiency Detection using Machine Learning”** at the **World Conference on Science Engineering and Technology (WCSET), Pune**.
+
+Presented **“Vitamin Deficiency Detection using Machine Learning”** at WCSET Pune.
 
 ---
 
-## Currently Focused On
+## Open For
 
-- Java backend engineering
-- Spring Boot architecture
-- REST API development
-- SQL and database design
-- Scalable backend systems
-- Full stack application development
-- Practical software engineering patterns
-
----
-
-## GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ommpatill&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommpatill&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ommpatill&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ommpatill&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## A few things I care about
-
-- writing code that is actually maintainable
-- building systems that solve real problems
-- learning by shipping, not just watching tutorials
-- keeping my work clean, sharp, and production-minded
+- Java Developer Roles
+- Software Developer Roles
+- Backend Engineering Opportunities
+- Full Stack Development Roles
+- Spring Boot Projects
+- Freelance Development Work
+- Internship & Entry-level Opportunities
+- Open Source Collaboration
 
 ---
 
 ## Connect With Me
 
-<p align="center">
-  <a href="https://ompatilportfolio.vercel.app" target="_blank">Portfolio</a> •
-  <a href="https://github.com/ommpatill" target="_blank">GitHub</a> •
-  <a href="https://www.linkedin.com/in/ompatill/" target="_blank">LinkedIn</a> •
-  <a href="https://leetcode.com/u/ommpatill/" target="_blank">LeetCode</a> •
-  <a href="mailto:omlpatil0609@gmail.com">Email</a>
-</p>
+<div align="center">
+
+<a href="https://ompatilportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/ommpatill">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ompatill/">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/ommpatill/">
+  <img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="mailto:omlpatil0609@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Building scalable backend systems, one project at a time.</i>
-</p>
+<div align="center">
+
+### Software Developer | Java | Spring Boot | REST APIs | Scalable Systems
+
+</div>
